@@ -1,0 +1,25 @@
+git add .
+git commit -m "updated portfolio"
+git push
+
+<!--  to add projects
+ <div class="proj-card reveal d4">
+  <div>
+    <div class="proj-num">Project 04</div>
+    <div class="proj-name">Your Project Name</div>
+    <div class="proj-desc">Your description here.</div>
+    <div class="proj-techs">
+      <span class="proj-tech">React</span>
+      <span class="proj-tech">Node.js</span>
+    </div>
+  </div>
+  <div class="proj-actions">
+    <a href="YOUR_GITHUB_LINK" target="_blank" class="proj-btn">GitHub ↗</a>
+    <a href="YOUR_LIVE_LINK" target="_blank" class="proj-btn">Live ↗</a>
+  </div>
+</div> 
+Then in index.html, find these two lines:
+html<div class="ph-icon">👩🏻‍💻</div>
+<span class="ph-lbl">photo coming soon</span>
+Replace them with:
+html<img src="images/shrushti.jpg" alt="Shrushti Waghmare">-->
